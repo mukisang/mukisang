@@ -39,7 +39,9 @@
 - Server Developer - [Boundary](https://github.com/mukisang/Boundary-Back-Deploy) : 지도 기반 음성 채팅 어플리케이션
 - parallel processing - 2021 KCC 논문 : [락-프리 기반 이진 탐색 트리 설계 및 구현](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10583553)
 
-### Experience
+<br>
+
+## Experience
 ### 2021 ~ NOW
 - LG CNS : Solution R&D
 
