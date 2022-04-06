@@ -41,7 +41,7 @@
 
 <br>
 
-## Experience
+# Experience
 ### 2021 ~ NOW
 - LG CNS : Solution R&D
 
