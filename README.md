@@ -9,7 +9,7 @@
 
 Platforms & Languages
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=C++&logoColor=white"/>
 
 
 <img
