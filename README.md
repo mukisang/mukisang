@@ -25,14 +25,7 @@
 
 <div align=center>
  
- <br>
  
-![Muki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukisang&show_icons=true&theme=merko)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sodlfmadms)](https://solved.ac/sodlfmadms)
-
-<br>
-
 # Skills
   
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp;&nbsp;
@@ -47,5 +40,14 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>&nbsp;&nbsp;
+
+ 
+ <br>
+ 
+![Muki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukisang&show_icons=true&theme=merko)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sodlfmadms)](https://solved.ac/sodlfmadms)
+
+<br>
 
 </div>
