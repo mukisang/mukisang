@@ -6,6 +6,7 @@
 # Projects
 ### 2022
 회사 😳
+- Refactoring Project - [Boundary](https://github.com/mukisang/Boundary-Back-Deploy) : 지도 기반 음성 채팅 어플리케이션 
 
 ### 2021
 - Project Manager - [SeolVim](https://github.com/mukisang/SeolVim_Frontend_pub) : 손쉬운 Vim Script 생성기
