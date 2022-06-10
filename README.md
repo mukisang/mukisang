@@ -6,7 +6,7 @@
 # Projects
 ### 2022
 - Refactoring Project - [Boundary](https://github.com/mukisang/Boundary-Back-Deploy) : 지도 기반 음성 채팅 어플리케이션
-- Server Developer - [nCr](https://github.com/mukisang/nCr) : 입을 옷 추천 
+- Server Developer - [nCr](https://github.com/mukisang/nCr) : 입을 옷 추천 어플리케이션
 + 회사 프로젝트 😳
 
 ### 2021
