@@ -5,7 +5,7 @@
 
 # Projects
 ### 2022
-- Boundary 2.0 - [Boundary2.0](https://github.com/mukisang/Boundary2.0.git) , [Boundary](https://github.com/mukisang/Boundary-Back-Deploy) : 성능 개선 및 리펙토링
+- Boundary 2.0 - [Boundary2.0](https://github.com/mukisang/Boundary2.0.git): 성능 개선 및 리펙토링
 - Server Developer - [nCr](https://github.com/mukisang/nCr) : 입을 옷 추천 어플리케이션
 - 회사 프로젝트 😳
 
