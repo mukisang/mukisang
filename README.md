@@ -45,7 +45,6 @@
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sodlfmadms)](https://solved.ac/sodlfmadms)
 ![Muki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukisang&show_icons=true&theme=merko)
 
 <br>
