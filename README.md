@@ -7,7 +7,7 @@
 ### 2022
 - Boundary 2.0 - [Boundary2.0](https://github.com/mukisang/Boundary2.0.git) , [Boundary](https://github.com/mukisang/Boundary-Back-Deploy) : 성능 개선 및 리펙토링
 - Server Developer - [nCr](https://github.com/mukisang/nCr) : 입을 옷 추천 어플리케이션
-+ 회사 프로젝트 😳
+- 회사 프로젝트 😳
 
 ### 2021
 - Server Developer - [Boundary](https://github.com/mukisang/Boundary-Back-Deploy) : 지도 기반 음성 채팅 어플리케이션
@@ -29,11 +29,11 @@
  
  
 # Skills
-  
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/></a>&nbsp;&nbsp;
+
 <br>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label="/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;
