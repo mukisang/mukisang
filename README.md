@@ -20,7 +20,7 @@
 # Experience
 ### 2021 ~ 2022
 - LG CNS : Solution R&D
-- 네이버 웍스: Calendar&Task
+- Naver Works : Calendar&Task
 
 ### 2020 ~ 2021
 - 중앙대학교 System & Storage Lab
