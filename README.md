@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
 
-![Muki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukisang&show_icons=true&theme=merko)
+![Muki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukisang)
 
 <br>
 
