@@ -7,6 +7,7 @@
 ### 2022
 - Boundary 2.0 - [Boundary2.0](https://github.com/mukisang/Boundary2.0.git): 성능 개선 및 리펙토링
 - Server Developer - [nCr](https://github.com/mukisang/nCr) : 입을 옷 추천 어플리케이션
+- Promiser (사내 프로젝트) : 약속 잡는 캘린더 서비스
 - 회사 프로젝트 😳
 
 ### 2021
@@ -17,8 +18,9 @@
 <br>
 
 # Experience
-### 2021 ~ NOW
+### 2021 ~ 2022
 - LG CNS : Solution R&D
+- 네이버 웍스: Calendar&Task
 
 ### 2020 ~ 2021
 - 중앙대학교 System & Storage Lab
@@ -38,6 +40,7 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label="/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>&nbsp;&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>&nbsp;&nbsp;
