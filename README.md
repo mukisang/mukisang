@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/></a>&nbsp;&nbsp;
 <br>
-![Muki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukisang&count_private=true)
 
 <br>
 
